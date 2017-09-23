@@ -1,9 +1,7 @@
-package cookie.study.java.hello;
-
 /**
- * Created by cookie on 2017/5/5.
+ * Created by cookie on 2017/9/23.
  */
-public class HelloWorld {
+public class ODSTConsole {
     public static void main(String[] args){
         System.out.println("Hello World!!!");
     }
